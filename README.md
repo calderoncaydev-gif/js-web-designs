@@ -37,7 +37,7 @@ Implementación del clásico juego **2048** usando JavaScript puro.
 ---
 
 ## 📸 Capturas / Demo
-*(Podés agregar capturas o un link a GitHub Pages acá)*
+![alt text](image.png)
 
 Ejemplo:
 ```txt
